@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Modification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <modificationType>Addon</modificationType>
-  <Name>SHOCKWAVE CLASSIC CAMEOS</Name>
-  <ModificationVersion>1.201</ModificationVersion>
-  <DownloadLink>https://www.dropbox.com/s/zgfrmqbmqvvaffk/Shockwave1.201ClassicCameos.zip?dl=1</DownloadLink>
-  <DependenceName>Shockwave</DependenceName>
-</Modification>
